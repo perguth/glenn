@@ -21,6 +21,10 @@
   - [ ] Read http://substack.net/task_automation_with_npm_run
   - [ ] Use a small webserver to develop. Use https://github.com/mattdesl/budo
   - [ ] Create a `package.json` with `npm init`
+  - [ ] Make it community available
+    - [ ] Host your repostiory on Github
+    - [ ] Publish to NPM
+    - [ ] Star it yourself when you're satisfied to notify your followers
   - [ ] Use that module within your website
   - [ ] Example: https://github.com/perguth/random-tree-names
 - [ ] Write a small NodeJS backend
