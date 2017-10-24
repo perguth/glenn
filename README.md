@@ -22,7 +22,7 @@
   - [ ] Use a small webserver to develop. Use https://github.com/mattdesl/budo
   - [ ] Create a `package.json` with `npm init`
   - [ ] Use that module within your website
-  - [ ] Example: https://github.com/perguth/random-tree-names
+  - [ ] Example: https://github.com/perguth/random-tree-names
 - [ ] Write a small NodeJS backend
   - [ ] Read http://substack.net/node_aesthetic
   - [ ] Connect your website to it
