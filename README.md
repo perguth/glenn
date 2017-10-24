@@ -7,6 +7,7 @@
 - [ ] Set up https://github.com/thelounge/lounge on Uberspace
   - [ ] Use a subdomain like `irc.YOURDOMAIN`
   - [ ] Set up a valid HTTPS cert using Certbot/Letsencrypt
+  - [ ] If no domain available use http://duckdns.org/
 - [ ] Set up a TODO repo on Github and give me Push access
 
 ## Create a simple website
