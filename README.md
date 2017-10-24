@@ -14,10 +14,16 @@
 
 - [ ] Create a website using [Github Pages](https://pages.github.com/)
   - [ ] Read http://mafintosh.com/learning-javascript.html
-  - [ ] Read http://substack.net/task_automation_with_npm_run
   - [ ] Use JS to do something
+  - [ ] Example: https://perguth.js.org/
 - [ ] Write a small JS module
   - [ ] Read http://mafintosh.com/pragmatic-modularity.html
+  - [ ] Read http://substack.net/task_automation_with_npm_run
   - [ ] Use a small webserver to develop. Use https://github.com/mattdesl/budo
   - [ ] Create a `package.json` with `npm init`
   - [ ] Use that module within your website
+  - [ ] Example: https://github.com/perguth/random-tree-names
+- [ ] Write a small NodeJS backend
+  - [ ] Read http://substack.net/node_aesthetic
+  - [ ] Connect your website to it
+  - [ ] Example: https://github.com/perguth/ffs-monitor
