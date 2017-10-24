@@ -18,6 +18,6 @@
   - [ ] Use JS to do something
 - [ ] Write a small JS module
   - [ ] Read http://mafintosh.com/pragmatic-modularity.html
-  - [ ] Use a small webserver to develop. Use https://github.com/mattdesl/budo
+  - [ ] Use a small webserver to develop. Use https://github.com/mattdesl/budo
   - [ ] Create a `package.json` with `npm init`
   - [ ] Use that module within your website
