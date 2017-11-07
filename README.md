@@ -13,6 +13,7 @@
 ## Create a simple website
 
 - [ ] Create a website using [Github Pages](https://pages.github.com/)
+  - [ ] Read and give me feedback on: https://github.com/fly-by/JavaScript
   - [ ] Read http://mafintosh.com/learning-javascript.html
   - [ ] Use JS to do something
   - [ ] Example: https://perguth.js.org/
